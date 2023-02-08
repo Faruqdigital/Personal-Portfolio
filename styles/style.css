@@ -59,7 +59,6 @@
     left: -80px;
     background-color: black;
     position: absolute;
-
 }
 
 .hero-content h1 {
@@ -83,18 +82,12 @@ h1 span{
     padding: .5rem 1rem;
 }
 
-/* .hero-image img{
-    max-width: 100%;
-} */
-
 .hero-image {
     max-width: 50%;
 }
 
-
-
-
 /*------- media screen---------- */
+
 @media screen and (max-width: 767px) {
 
     .nav-list{
